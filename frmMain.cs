@@ -2,10 +2,7 @@
 using System.Drawing;
 using System.Windows.Forms;
 
-/* Jathurshan Theivikaran
- * October 11 2019
- * this program manipulates the colour pixels of the inputted image
- */
+// this program manipulates the colour pixels of the inputted image
 
 //sample image is in the folder of this solution
 namespace ImageProcessing
